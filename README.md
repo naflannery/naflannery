@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naflannery real name Niall
-- 👀 I’m interested in bushcraft, wildfood, ancient history, gaming (D&D, WOW, MTG and MTGA and such)
-- 🌱 I’m currently learning Front End Development (HTML, CSS, Javascript, JQuery, Bootstrap) and JAVA.
+- 👀 I’m interested in Judo, Food, Surfing/Paddle boarding, coding (C#, Javascript, Python, HTML5, CSS)
+- 🌱 I’m currently learning SharePoint Online Administration and the Power Platform whilst continuing to develop skills in Python, Javascript and C#
 - 💞️ I’m looking to collaborate on - happy to be involved with anything.
 - 📫 How to reach me - n.a.flannery@outlook.com or naflannery1984@gmail.com
 
